@@ -1,5 +1,5 @@
-
 # 📑 Daily Research Tracker
+
 
 > **Automated ArXiv Feed:** Staying up-to-date with the latest research in AI, Machine Learning, and Computational Finance.
 
@@ -23,7 +23,12 @@ This repository automatically fetches the latest papers from **ArXiv** every day
 
 ---
 
+
+---
+
 ## 🔥 Latest Papers
+
+*Updated automatically every day via GitHub Actions.*
 
 
 - **Closing the Train-Test Gap in World Models for Gradient-Based Planning**
@@ -58,5 +63,5 @@ This repository automatically fetches the latest papers from **ArXiv** every day
 ---
 
 <div align="center">
-  <sub>Generated with ❤️ by Python & GitHub Actions</sub>
+  <sub>Generated with ❤️ by Python</sub>
 </div>
