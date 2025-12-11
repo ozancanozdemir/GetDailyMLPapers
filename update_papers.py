@@ -11,6 +11,7 @@ CATEGORIES = ['cs.AI', 'cs.CV', 'cs.CL', 'cs.LG','stat.ML','q-fin.CP']
 
 #Maximum article number to be represented
 MAX_RESULTS = 7
+TARGET_HEADER = "## 🔥 Latest Papers
 
 # ---------------------------------------------------------
 
@@ -51,15 +52,21 @@ def update_readme():
     try:
         with open('README.md', 'r', encoding='utf-8') as file:
             content = file.read()
+
+        if TARGET_HEADER in content:
+            print(f"We insert papers to the appropriate point: {TARGET_HEADER}")
+
+            #split the article 
+            parts = content.split(TARGET_HEADER)
+
+            footer_marker = "<div align=\"center\">"
+            footer = ""
+            if footer_marker in parts[1]:
+                footer_index = parts[1].find(footer_marker)
+                footer = "\n" + parts[1][footer_index:]
+            
+            new_content = parts[0] + TARGET_HEADER + "\n" + papers_content + footer
         
-        start_marker = ''
-        end_marker = ''
-        
-        start_index = content.find(start_marker) + len(start_marker)
-        end_index = content.find(end_marker)
-        
-        if start_index != -1 and end_index != -1:
-            new_content = content[:start_index] + markdown_text + content[end_index:]
             
             with open('README.md', 'w', encoding='utf-8') as file:
                 file.write(new_content)
@@ -72,3 +79,4 @@ def update_readme():
 
 if __name__ == "__main__":
     update_readme()
+
