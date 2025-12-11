@@ -1,0 +1,39 @@
+name: Update ArXiv Papers
+
+on:
+  schedule:
+    # Her gün UTC saatiyle 08:00'de çalışır 
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Manuel tetikleme için (Test etmek istersen)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # Repoya yazma izni verir
+
+    steps:
+    - name: Repoyu Çek (Checkout)
+      uses: actions/checkout@v3
+
+    - name: Python Kurulumu
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Kütüphaneleri Yükle
+      run: |
+        pip install -r requirements.txt
+
+    - name: Scripti Çalıştır
+      run: python update_papers.py
+
+    - name: Değişiklikleri Commit ve Push Yap
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        # Eğer değişiklik yoksa hata vermemesi için
+        git commit -m "Günlük ArXiv güncellemesi" || exit 0
+        git push
