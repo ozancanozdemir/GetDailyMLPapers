@@ -1,3 +1,32 @@
+
+- **Closing the Train-Test Gap in World Models for Gradient-Based Planning**
+  - *Tarih:* 2025-12-10 | *Kategoriler:* `cs.LG, cs.RO`
+  - [Makaleye Git](https://arxiv.org/abs/2512.09929v1)
+
+- **GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures**
+  - *Tarih:* 2025-12-10 | *Kategoriler:* `cs.CV`
+  - [Makaleye Git](https://arxiv.org/abs/2512.09925v1)
+
+- **ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**
+  - *Tarih:* 2025-12-10 | *Kategoriler:* `cs.CV`
+  - [Makaleye Git](https://arxiv.org/abs/2512.09924v1)
+
+- **Splatent: Splatting Diffusion Latents for Novel View Synthesis**
+  - *Tarih:* 2025-12-10 | *Kategoriler:* `cs.CV`
+  - [Makaleye Git](https://arxiv.org/abs/2512.09923v1)
+
+- **LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**
+  - *Tarih:* 2025-12-10 | *Kategoriler:* `cs.RO, cs.AI, cs.CV`
+  - [Makaleye Git](https://arxiv.org/abs/2512.09920v1)
+
+- **FALCON: Few-step Accurate Likelihoods for Continuous Flows**
+  - *Tarih:* 2025-12-10 | *Kategoriler:* `cs.LG, cs.AI`
+  - [Makaleye Git](https://arxiv.org/abs/2512.09914v1)
+
+- **NordFKB: a fine-grained benchmark dataset for geospatial AI in Norway**
+  - *Tarih:* 2025-12-10 | *Kategoriler:* `cs.CV`
+  - [Makaleye Git](https://arxiv.org/abs/2512.09913v1)
+
 # 📑 Daily Research Tracker
 
 > **Automated ArXiv Feed:** Staying up-to-date with the latest research in AI, Machine Learning, and Computational Finance.
