@@ -11,7 +11,7 @@ CATEGORIES = ['cs.AI', 'cs.CV', 'cs.CL', 'cs.LG','stat.ML','q-fin.CP']
 
 #Maximum article number to be represented
 MAX_RESULTS = 20
-TARGET_HEADER = "## 🔥 Latest Papers
+TARGET_HEADER = "## 🔥 Latest Papers"
 
 # ---------------------------------------------------------
 
