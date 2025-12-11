@@ -2,8 +2,9 @@ name: Update ArXiv Papers
 
 on:
   schedule:
-    # Her gün UTC saatiyle 08:00'de çalışır 
+    # Günde iki kere çalışıyor
     - cron: '0 8 * * *'
+    - cron: '10 11 * * *' 
   workflow_dispatch: # Manuel tetikleme için (Test etmek istersen)
 
 jobs:
