@@ -40,12 +40,12 @@ def update_readme():
         
         # Find the category
         # Labeled category
-        tags = [t['term'] for t in entry.tags if t['term'].startswith('cs.') or t['term'].startswith('stat.')]
+        tags = [t['term'] for t in entry.tags if t['term'].startswith('cs.') or t['term'].startswith('stat.')] or t['term'].startswith('q-fin.')]
         tags_str = ", ".join(tags)
         
         markdown_text += f"- **{title}**\n"
-        markdown_text += f"  - *Tarih:* {date} | *Kategoriler:* `{tags_str}`\n"
-        markdown_text += f"  - [Makaleye Git]({entry.link})\n\n"
+        markdown_text += f"  - *Date:* {date} | *Categories:* `{tags_str}`\n"
+        markdown_text += f"  - [Access the article.]({entry.link})\n\n"
     
     # Read and update README
     try:
