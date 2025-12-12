@@ -41,7 +41,7 @@ def update_readme():
         
         # Find the category
         # Labeled category
-        tags = [t['term'] for t in entry.tags if t['term'].startswith('cs.') or t['term'].startswith('stat.')] or t['term'].startswith('q-fin.')]
+        tags = [t['term'] for t in entry.tags if t['term'].startswith('cs.') or t['term'].startswith('stat.') or t['term'].startswith('q-fin.')
         tags_str = ", ".join(tags)
         
         markdown_text += f"- **{title}**\n"
