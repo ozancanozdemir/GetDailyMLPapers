@@ -3,7 +3,7 @@ import urllib.parse
 
 # Config
 CATEGORIES = ['cs.AI', 'cs.CV', 'cs.CL', 'cs.LG', 'stat.ML', 'q-fin.CP']
-MAX_RESULTS = 20
+MAX_RESULTS = 50
 TARGET_HEADER = "## 🔥 Latest Papers"
 README_FILE = 'README.md'
 
