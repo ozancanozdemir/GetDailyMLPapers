@@ -3,7 +3,7 @@ name: Update ArXiv Papers
 on:
   schedule:
     # Günde iki kere çalışıyor
-    - cron: '0 8 * * *'
+    - cron: '41 15 * * *'
     #- cron: '20 9 * * *' 
   workflow_dispatch: # Manuel tetikleme için (Test etmek istersen)
 
