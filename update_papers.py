@@ -42,4 +42,39 @@ def update_readme():
             continue
             
         # Extract metadata
-        title = entry.title.
+        # HATA BURADAYDI, ŞİMDİ DÜZELTİLDİ:
+        title = entry.title.replace('\n', ' ')
+        date = entry.published[:10]
+        
+        # Filter tags
+        tags = [t['term'] for t in entry.tags if any(t['term'].startswith(p) for p in ['cs.', 'stat.', 'q-fin.'])]
+        tags_str = ", ".join(tags)
+        
+        # Format Markdown
+        new_entries_md += f"- **{title}**\n"
+        new_entries_md += f"  - 📅 {date} | 🏷️ `{tags_str}`\n"
+        new_entries_md += f"  - [Read Paper]({link})\n\n"
+        
+        count += 1
+
+    # Update README
+    if count > 0:
+        if TARGET_HEADER in content:
+            # Split content at header
+            parts = content.split(TARGET_HEADER)
+            
+            # Construct new content (Preserve old papers)
+            final_content = parts[0] + TARGET_HEADER + "\n\n" + new_entries_md + parts[1]
+            
+            # Write changes
+            with open(README_FILE, 'w', encoding='utf-8') as file:
+                file.write(final_content)
+            
+            print(f"Success: Added {count} new papers.")
+        else:
+            print(f"Error: Header '{TARGET_HEADER}' not found.")
+    else:
+        print("No new papers to add.")
+
+if __name__ == "__main__":
+    update_readme()
