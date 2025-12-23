@@ -28,6 +28,2616 @@ This repository automatically fetches the latest papers from **ArXiv** every day
 
 ## 🔥 Latest Papers
 
+- **The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19693v1)
+
+- **Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19692v1)
+
+- **Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight**
+  - 📅 2025-12-22 | 🏷️ `cs.AI, stat.AP`
+  - [Read Paper](https://arxiv.org/abs/2512.19691v1)
+
+- **Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.SD, cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19687v1)
+
+- **Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19686v1)
+
+- **Zero-shot Reconstruction of In-Scene Object Manipulation from Video**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.19684v1)
+
+- **From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19683v1)
+
+- **GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19682v1)
+
+- **VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19680v1)
+
+- **WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19678v1)
+
+- **Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19676v1)
+
+- **Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.DL`
+  - [Read Paper](https://arxiv.org/abs/2512.19675v1)
+
+- **Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19673v1)
+
+- **Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19663v1)
+
+- **Over++: Generative Video Compositing for Layer Interaction Effects**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19661v1)
+
+- **Clustering with Label Consistency**
+  - 📅 2025-12-22 | 🏷️ `cs.DS, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19654v1)
+
+- **Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19651v1)
+
+- **Deep Legendre Transform**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19649v1)
+
+- **4D Gaussian Splatting as a Learned Dynamical System**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19648v1)
+
+- **The Best of Both Worlds: Hybridizing Neural Operators and Solvers for Stable Long-Horizon Inference**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.CE`
+  - [Read Paper](https://arxiv.org/abs/2512.19643v1)
+
+- **Generative diffusion models for agricultural AI: plant image generation, indoor-to-outdoor translation, and expert preference alignment**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19632v1)
+
+- **Diacritic Restoration for Low-Resource Indigenous Languages: Case Study with Bribri and Cook Islands Māori**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19630v1)
+
+- **LoGoPlanner: Localization Grounded Navigation Policy with Metric-aware Visual Geometry**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19629v1)
+
+- **Counterexamples for FX Options Interpolations -- Part I**
+  - 📅 2025-12-22 | 🏷️ `q-fin.PR, q-fin.CP, q-fin.RM`
+  - [Read Paper](https://arxiv.org/abs/2512.19621v1)
+
+- **Exploring the features used for summary evaluation by Human and GPT**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19620v1)
+
+- **MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19612v1)
+
+- **Heston vol-of-vol and the VVIX**
+  - 📅 2025-12-22 | 🏷️ `q-fin.PR, q-fin.CP, q-fin.MF, q-fin.RM`
+  - [Read Paper](https://arxiv.org/abs/2512.19611v1)
+
+- **MapTrace: Scalable Data Generation for Route Tracing on Maps**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19609v1)
+
+- **KerJEPA: Kernel Discrepancies for Euclidean Self-Supervised Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19605v1)
+
+- **No Data? No Problem: Robust Vision-Tabular Learning with Missing Values**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19602v1)
+
+- **Increasing the Thinking Budget is Not All You Need**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19585v1)
+
+- **Patlak Parametric Image Estimation from Dynamic PET Using Diffusion Model Prior**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19584v1)
+
+- **Deep Learning for Primordial $B$-mode Extraction**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.19577v1)
+
+- **LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19576v1)
+
+- **The Epistemological Consequences of Large Language Models: Rethinking collective intelligence and institutional knowledge**
+  - 📅 2025-12-22 | 🏷️ `cs.HC, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19570v1)
+
+- **Owning the Intelligence: Global AI Patents Landscape and Europe's Quest for Technological Sovereignty**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19569v1)
+
+- **Results of the 2024 CommonRoad Motion Planning Competition for Autonomous Vehicles**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19564v1)
+
+- **REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19562v1)
+
+- **BabyFlow: 3D modeling of realistic and expressive infant faces**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19560v1)
+
+- **Augmenting Intelligence: A Hybrid Framework for Scalable and Stable Explanations**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19557v1)
+
+- **CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19554v1)
+
+- **Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19551v1)
+
+- **DFORD: Directional Feedback based Online Ordinal Regression Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19550v1)
+
+- **ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19546v1)
+
+- **Algerian Dialect**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19543v1)
+
+- **Active Convolved Illumination with Deep Transfer Learning for Complex Beam Transmission through Atmospheric Turbulence**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19540v1)
+
+- **StoryMem: Multi-shot Long Video Storytelling with Memory**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19539v1)
+
+- **Event Extraction in Large Language Model**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19537v1)
+
+- **CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19535v1)
+
+- **SlicerOrbitSurgerySim: An Open-Source Platform for Virtual Registration and Quantitative Comparison of Preformed Orbital Plates**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19534v1)
+
+- **Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19530v1)
+
+- **Multi-Modal Soccer Scene Analysis with Masked Pre-Training**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19528v1)
+
+- **Deep Learning for Unrelated-Machines Scheduling: Handling Variable Dimensions**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.DM`
+  - [Read Paper](https://arxiv.org/abs/2512.19527v1)
+
+- **QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19526v1)
+
+- **Initialization of a Polyharmonic Cascade, Launch and Testing**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19524v1)
+
+- **A Convolutional Neural Deferred Shader for Physics Based Rendering**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19522v1)
+
+- **LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19516v1)
+
+- **Anatomy-R1: Enhancing Anatomy Reasoning in Multimodal Large Language Models via Anatomical Similarity Curriculum and Group Diversity Augmentation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19512v1)
+
+- **Toward Scalable and Valid Conditional Independence Testing with Spectral Representations**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.19510v1)
+
+- **DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19506v1)
+
+- **FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19504v1)
+
+- **Kolmogorov-Arnold Graph Neural Networks Applied to Inorganic Nanomaterials Dataset**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19494v1)
+
+- **Learning from sanctioned government suppliers: A machine learning and network science approach to detecting fraud and corruption in Mexico**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.CY`
+  - [Read Paper](https://arxiv.org/abs/2512.19491v1)
+
+- **Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19489v1)
+
+- **Lightweight Intrusion Detection in IoT via SHAP-Guided Feature Pruning and Knowledge-Distilled Kronecker Networks**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.NI`
+  - [Read Paper](https://arxiv.org/abs/2512.19488v1)
+
+- **Dynamic Stream Network for Combinatorial Explosion Problem in Deformable Medical Image Registration**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19486v1)
+
+- **A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis**
+  - 📅 2025-12-22 | 🏷️ `cs.SE, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19481v1)
+
+- **Emotion-Director: Bridging Affective Shortcut in Emotion-Oriented Image Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19479v1)
+
+- **A Large-Language-Model Framework for Automated Humanitarian Situation Reporting**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19475v1)
+
+- **Multi-Layer Confidence Scoring for Detection of Out-of-Distribution Samples, Adversarial Attacks, and In-Distribution Misclassifications**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19472v1)
+
+- **GLUE: Generative Latent Unification of Expertise-Informed Engineering Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CE, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19469v1)
+
+- **Epistemological Fault Lines Between Human and Artificial Intelligence**
+  - 📅 2025-12-22 | 🏷️ `cs.CY, cs.CL, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.19466v1)
+
+- **An Agentic Framework for Autonomous Materials Computation**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19458v1)
+
+- **Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19456v1)
+
+- **SiamGPT: Quality-First Fine-Tuning for Stable Thai Text Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19455v1)
+
+- **Sign Language Recognition using Parallel Bidirectional Reservoir Computing**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.19451v1)
+
+- **D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19443v1)
+
+- **Real-Time Streamable Generative Speech Restoration with Flow Matching**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.SD`
+  - [Read Paper](https://arxiv.org/abs/2512.19442v1)
+
+- **Binary Kernel Logistic Regression: a sparsity-inducing formulation and a convergent decomposition training algorithm**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19440v1)
+
+- **An Inverse Scattering Inspired Fourier Neural Operator for Time-Dependent PDE Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19439v1)
+
+- **MT-Mark: Rethinking Image Watermarking via Mutual-Teacher Collaboration with Adaptive Feature Modulation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19438v1)
+
+- **dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19433v1)
+
+- **MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive, and MCP-Augmented Environments**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19432v1)
+
+- **Attention Is Not What You Need**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19428v1)
+
+- **CodeSimpleQA: Scaling Factuality in Code Large Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19424v1)
+
+- **Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19415v1)
+
+- **From Retrieval to Reasoning: A Framework for Cyber Threat Intelligence NER with Explicit and Adaptive Instructions**
+  - 📅 2025-12-22 | 🏷️ `cs.CR, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19414v1)
+
+- **Research Program: Theory of Learning in Dynamical Systems**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19410v1)
+
+- **Symplectic Reservoir Representation of Legendre Dynamics**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19409v1)
+
+- **Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.CV, cs.GR`
+  - [Read Paper](https://arxiv.org/abs/2512.19402v1)
+
+- **Kunnafonidilaw ka Cadeau: an ASR dataset of present-day Bambara**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19400v1)
+
+- **Brain-Grounded Axes for Reading and Steering LLM States**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19399v1)
+
+- **EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19396v1)
+
+- **TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.CV, cs.GR`
+  - [Read Paper](https://arxiv.org/abs/2512.19390v1)
+
+- **DSTED: Decoupling Temporal Stabilization and Discriminative Enhancement for Surgical Workflow Recognition**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19387v1)
+
+- **Real-Time Machine Learning for Embedded Anomaly Detection**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19383v1)
+
+- **OmniMER: Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI, cs.MM`
+  - [Read Paper](https://arxiv.org/abs/2512.19379v1)
+
+- **HATS: High-Accuracy Triple-Set Watermarking for Large Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19378v1)
+
+- **A Critical Assessment of Pattern Comparisons Between POD and Autoencoders in Intraventricular Flows**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19376v1)
+
+- **Cluster-Based Generalized Additive Models Informed by Random Fourier Features**
+  - 📅 2025-12-22 | 🏷️ `stat.ML, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19373v1)
+
+- **Sprecher Networks: A Parameter-Efficient Kolmogorov-Arnold Architecture**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19367v1)
+
+- **Learning General Policies with Policy Gradient Methods**
+  - 📅 2025-12-22 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19366v1)
+
+- **Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19365v1)
+
+- **From Points to Coalitions: Hierarchical Contrastive Shapley Values for Prioritizing Data Samples**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19363v1)
+
+- **Interpretable Hybrid Deep Q-Learning Framework for IoT-Based Food Spoilage Prediction with Synthetic Data Generation and Hardware Validation**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19361v1)
+
+- **First-Order Representation Languages for Goal-Conditioned RL**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19355v1)
+
+- **ReasonCD: A Multimodal Reasoning Large Model for Implicit Change-of-Interest Semantic Mining**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19354v1)
+
+- **PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19350v1)
+
+- **VIGOR+: Iterative Confounder Generation and Validation via LLM-CEVAE Feedback Loop**
+  - 📅 2025-12-22 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19349v1)
+
+- **Faster Distributed Inference-Only Recommender Systems via Bounded Lag Synchronous Collectives**
+  - 📅 2025-12-22 | 🏷️ `cs.DC, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19342v1)
+
+- **GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19336v1)
+
+- **Orthogonal Approximate Message Passing with Optimal Spectral Initializations for Rectangular Spiked Matrix Models**
+  - 📅 2025-12-22 | 🏷️ `cs.IT, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19334v1)
+
+- **A Logical View of GNN-Style Computation and the Role of Activation Functions**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.LO`
+  - [Read Paper](https://arxiv.org/abs/2512.19332v1)
+
+- **DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19331v1)
+
+- **Extended OpenTT Games Dataset: A table tennis dataset for fine-grained shot type and point outcome**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19327v1)
+
+- **Alternative positional encoding functions for neural transformers**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19323v1)
+
+- **MAGIC: Achieving Superior Model Merging via Magnitude Calibration**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI, cs.CL, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19320v1)
+
+- **SafeMed-R1: Adversarial Reinforcement Learning for Generalizable and Robust Medical Reasoning in Vision-Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19317v1)
+
+- **Neural Implicit Heart Coordinates: 3D cardiac shape reconstruction from sparse segmentations**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19316v1)
+
+- **MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19311v1)
+
+- **Time-Vertex Machine Learning for Optimal Sensor Placement in Temporal Graph Signals: Applications in Structural Health Monitoring**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19309v1)
+
+- **CienaLLM: Generative Climate-Impact Extraction from News Articles with Autoregressive LLMs**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19305v1)
+
+- **Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19302v1)
+
+- **RMLer: Synthesizing Novel Objects across Diverse Categories via Reinforcement Mixing Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19300v1)
+
+- **Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19299v1)
+
+- **Causal-Guided Detoxify Backdoor Attack of Open-Weight LoRA Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19297v1)
+
+- **Vibe Reasoning: Eliciting Frontier AI Mathematical Capabilities -- A Case Study on IMO 2025 Problem 6**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19287v1)
+
+- **GShield: Mitigating Poisoning Attacks in Federated Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.CR, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19286v1)
+
+- **Hand-Aware Egocentric Motion Reconstruction with Sequence-Level Context**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19283v1)
+
+- **Digital Twin-Driven Zero-Shot Fault Diagnosis of Axial Piston Pumps Using Fluid-Borne Noise Signals**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19280v1)
+
+- **Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19275v1)
+
+- **3SGen: Unified Subject, Style, and Structure-Driven Image Generation with Adaptive Task-specific Memory**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19271v1)
+
+- **Translating Flow to Policy via Hindsight Online Imitation**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19269v1)
+
+- **Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19253v1)
+
+- **Institutional Backing and Crypto Volatility: A Hybrid Framework for DeFi Stabilization**
+  - 📅 2025-12-22 | 🏷️ `q-fin.CP, q-fin.RM, q-fin.TR`
+  - [Read Paper](https://arxiv.org/abs/2512.19251v1)
+
+- **Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.PL`
+  - [Read Paper](https://arxiv.org/abs/2512.19250v1)
+
+- **Auto-Prompting with Retrieval Guidance for Frame Detection in Logistics**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19247v1)
+
+- **From Black-Box Tuning to Guided Optimization via Hyperparameters Interaction Analysis**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19246v1)
+
+- **VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19243v1)
+
+- **ChemATP: A Training-Free Chemical Reasoning Framework for Large Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19240v1)
+
+- **Identifying Features Associated with Bias Against 93 Stigmatized Groups in Language Models and Guardrail Model Safety Mitigation**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19238v1)
+
+- **DeliveryBench: Can Agents Earn Profit in Real World?**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19234v1)
+
+- **Regression generation adversarial network based on dual data evaluation strategy for industrial application**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19232v1)
+
+- **Generation of Programmatic Rules for Document Forgery Detection Using Large Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19228v1)
+
+- **Selective Phase-Aware Training of nnU-Net for Robust Breast Cancer Segmentation in Multi-Center DCE-MRI**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19225v1)
+
+- **Phase-space entropy at acquisition reflects downstream learnability**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19223v1)
+
+- **From Pixels to Predicates Structuring urban perception with scene graphs**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19221v1)
+
+- **Towards Minimal Fine-Tuning of VLMs**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19219v1)
+
+- **HippMetric: A skeletal-representation-based framework for cross-sectional and longitudinal hippocampal substructural morphometry**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19214v1)
+
+- **InvCoSS: Inversion-driven Continual Self-supervised Learning in Medical Multi-modal Image Pre-training**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19213v1)
+
+- **Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19210v1)
+
+- **MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19206v1)
+
+- **On the Koopman-Based Generalization Bounds for Multi-Task Deep Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19199v1)
+
+- **Self-Consistent Probability Flow for High-Dimensional Fokker-Planck Equations**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19196v1)
+
+- **Causal Heterogeneous Graph Learning Method for Chronic Obstructive Pulmonary Disease Prediction**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19194v1)
+
+- **PEDESTRIAN: An Egocentric Vision Dataset for Obstacle Detection on Pavements**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19190v1)
+
+- **Operator-Based Generalization Bound for Deep Learning: Insights on Multi-Task Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19184v1)
+
+- **Practical Quantum-Classical Feature Fusion for complex data Classification**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19180v1)
+
+- **Vision-Language-Policy Model for Dynamic Robot Task Planning**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19178v1)
+
+- **CycleChart: A Unified Consistency-Based Learning Framework for Bidirectional Chart Understanding and Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19173v1)
+
+- **Finite-sample guarantees for data-driven forward-backward operator methods**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19172v1)
+
+- **JEPA-Reasoner: Decoupling Latent Reasoning from Token Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19171v1)
+
+- **From Speech to Subtitles: Evaluating ASR Models in Subtitling Italian Television Programs**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19161v1)
+
+- **OmniMoGen: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19159v1)
+
+- **Can We Test Consciousness Theories on AI? Ablations, Markers, and Robustness**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19155v1)
+
+- **Beyond Sliding Windows: Learning to Manage Memory in Non-Markovian Environments**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19154v1)
+
+- **AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19150v1)
+
+- **RP-CATE: Recurrent Perceptron-based Channel Attention Transformer Encoder for Industrial Hybrid Modeling**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19147v1)
+
+- **A Convex Loss Function for Set Prediction with Optimal Trade-offs Between Size and Conditional Coverage**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.19142v1)
+
+- **Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19135v1)
+
+- **QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.IR`
+  - [Read Paper](https://arxiv.org/abs/2512.19134v1)
+
+- **WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19133v1)
+
+- **Evidential Trust-Aware Model Personalization in Decentralized Federated Learning for Wearable IoT**
+  - 📅 2025-12-22 | 🏷️ `cs.DC, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19131v1)
+
+- **AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19126v1)
+
+- **SAP: Syntactic Attention Pruning for Transformer-based Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19125v1)
+
+- **A Composable Channel-Adaptive Architecture for Seizure Classification**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19123v1)
+
+- **BanglaForge: LLM Collaboration with Self-Refinement for Bangla Code Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.SE, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19122v1)
+
+- **Stop saying LLM: Large Discourse Models (LDM) and Artificial Discursive Agent (ADA)?**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19117v1)
+
+- **Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19115v1)
+
+- **HyperLoad: A Cross-Modality Enhanced Large Language Model-Based Framework for Green Data Center Cooling Load Prediction**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19114v1)
+
+- **Trifocal Tensor and Relative Pose Estimation with Known Vertical Direction**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19110v1)
+
+- **GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19108v1)
+
+- **FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19107v1)
+
+- **Explicit and Non-asymptotic Query Complexities of Rank-Based Zeroth-order Algorithm on Stochastic Smooth Functions**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19104v1)
+
+- **Timely Parameter Updating in Over-the-Air Federated Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.DC`
+  - [Read Paper](https://arxiv.org/abs/2512.19103v1)
+
+- **Dual Model Deep Learning for Alzheimer Prognostication**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19099v1)
+
+- **DIVER-1 : Deep Integration of Vast Electrophysiological Recordings at Scale**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19097v1)
+
+- **Conditioning Accept-Desirability models in the context of AGM-like belief change**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19096v1)
+
+- **Mamba-Based Modality Disentanglement Network for Multi-Contrast MRI Reconstruction**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19095v1)
+
+- **Tool-Augmented Hybrid Ensemble Reasoning with Distillation for Bilingual Mathematical Problem Solving**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19093v1)
+
+- **A Large Language Model Based Method for Complex Logical Reasoning over Knowledge Graphs**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19092v1)
+
+- **Auditing Significance, Metric Choice, and Demographic Fairness in Medical AI Challenges**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19091v1)
+
+- **Retrieving Objects from 3D Scenes with Box-Guided Open-Vocabulary Instance Segmentation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19088v1)
+
+- **$γ(3,4)$ `Attention' in Cognitive Agents: Ontology-Free Knowledge Representations With Promise Theoretic Semantics**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19084v1)
+
+- **Population-Evolve: a Parallel Sampling and Evolutionary Method for LLM Math Reasoning**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19081v1)
+
+- **Watch Closely: Mitigating Object Hallucinations in Large Vision-Language Models with Disentangled Decoding**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19070v1)
+
+- **Can abstract concepts from LLM improve SLM performance?**
+  - 📅 2025-12-22 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19069v1)
+
+- **On Cost-Aware Sequential Hypothesis Testing with Random Costs and Action Cancellation**
+  - 📅 2025-12-22 | 🏷️ `cs.IT, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19067v1)
+
+- **Fraud Detection Through Large-Scale Graph Clustering with Heterogeneous Link Transformation**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19061v1)
+
+- **6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19058v1)
+
+- **Efficient Personalization of Generative Models via Optimal Experimental Design**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.IT`
+  - [Read Paper](https://arxiv.org/abs/2512.19057v1)
+
+- **WaTeRFlow: Watermark Temporal Robustness via Flow Consistency**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19048v1)
+
+- **Decoupled Generative Modeling for Human-Object Interaction Synthesis**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19049v1)
+
+- **Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19038v1)
+
+- **Elevating Intrusion Detection and Security Fortification in Intelligent Networks through Cutting-Edge Machine Learning Paradigms**
+  - 📅 2025-12-22 | 🏷️ `cs.CR, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19037v1)
+
+- **Distinguishing Visually Similar Actions: Prompt-Guided Semantic Prototype Modulation for Few-Shot Action Recognition**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19036v1)
+
+- **Automatic Neuronal Activity Segmentation in Fast Four Dimensional Spatio-Temporal Fluorescence Imaging using Bayesian Approach**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19032v1)
+
+- **A Surrogate-Augmented Symbolic CFD-Driven Training Framework for Accelerating Multi-objective Physical Model Development**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19031v1)
+
+- **Recontextualization Mitigates Specification Gaming without Modifying the Specification**
+  - 📅 2025-12-22 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19027v1)
+
+- **Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19026v1)
+
+- **The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation**
+  - 📅 2025-12-22 | 🏷️ `cs.CR, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19025v1)
+
+- **IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19024v1)
+
+- **Steering Vision-Language Pre-trained Models for Incremental Face Presentation Attack Detection**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.19022v1)
+
+- **VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.19021v1)
+
+- **CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19020v1)
+
+- **Optimizer Dynamics at the Edge of Stability with Differential Privacy**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19019v1)
+
+- **DramaBench: A Six-Dimensional Evaluation Framework for Drama Script Continuation**
+  - 📅 2025-12-22 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.19012v1)
+
+- **Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline**
+  - 📅 2025-12-22 | 🏷️ `cs.CR, cs.AI, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19011v1)
+
+- **The 6th International Verification of Neural Networks Competition (VNN-COMP 2025): Summary and Results**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.19007v1)
+
+- **Context-Aware Initialization for Reducing Generative Path Length in Diffusion Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19004v1)
+
+- **ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management**
+  - 📅 2025-12-22 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.19001v1)
+
+- **Evaluating the Challenges of LLMs in Real-world Medical Follow-up: A Comparative Study and An Optimized Framework**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18999v1)
+
+- **Towards AI-Guided Open-World Ecological Taxonomic Classification**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18994v1)
+
+- **ICP-4D: Bridging Iterative Closest Point and LiDAR Panoptic Segmentation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18991v1)
+
+- **Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation**
+  - 📅 2025-12-22 | 🏷️ `cs.RO, cs.CL, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18987v1)
+
+- **R-GenIMA: Integrating Neuroimaging and Genetics with Interpretable Multimodal AI for Alzheimer's Disease Progression**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18986v1)
+
+- **OPBO: Order-Preserving Bayesian Optimization**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18980v1)
+
+- **Outlier detection in mixed-attribute data: a semi-supervised approach with fuzzy approximations and relative entropy**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18978v1)
+
+- **Consistency-guided semi-supervised outlier detection in heterogeneous data using fuzzy rough sets**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18977v1)
+
+- **On Conditional Stochastic Interpolation for Generative Nonlinear Sufficient Dimension Reduction**
+  - 📅 2025-12-22 | 🏷️ `stat.ML, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18971v1)
+
+- **Self-Attention with State-Object Weighted Combination for Compositional Zero Shot Learning**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18969v1)
+
+- **Total Curvature Regularization and its_Minimization for Surface and Image Smoothing**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18968v1)
+
+- **Lag Operator SSMs: A Geometric Framework for Structured State Space Modeling**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18965v1)
+
+- **DVI: Disentangling Semantic and Visual Identity for Training-Free Personalized Generation**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18964v1)
+
+- **Scaling Online Distributionally Robust Reinforcement Learning: Sample-Efficient Guarantees with General Function Approximation**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18957v1)
+
+- **Training Multimodal Large Reasoning Models Needs Better Thoughts: A Three-Stage Framework for Long Chain-of-Thought Synthesis and Selection**
+  - 📅 2025-12-22 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18956v1)
+
+- **VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18954v1)
+
+- **Symmetrization of 3D Generative Models**
+  - 📅 2025-12-22 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18953v1)
+
+- **Learning Through Little Eyes: Attribute Discrimination Beyond Objects**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18951v1)
+
+- **Learning Hierarchical Procedural Memory for LLM Agents through Bayesian Selection and Contrastive Refinement**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18950v1)
+
+- **Clustering-based Transfer Learning for Dynamic Multimodal MultiObjective Evolutionary Algorithm**
+  - 📅 2025-12-22 | 🏷️ `cs.AI, cs.NE`
+  - [Read Paper](https://arxiv.org/abs/2512.18947v1)
+
+- **FASTRIC: Prompt Specification Language for Verifiable LLM Interactions**
+  - 📅 2025-12-22 | 🏷️ `cs.CL, cs.SE`
+  - [Read Paper](https://arxiv.org/abs/2512.18940v1)
+
+- **When Less is More: 8-bit Quantization Improves Continual Learning in Large Language Models**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18934v1)
+
+- **Point What You Mean: Visually Grounded Instruction Policy**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.18933v1)
+
+- **DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems**
+  - 📅 2025-12-22 | 🏷️ `cs.LG, cs.CR`
+  - [Read Paper](https://arxiv.org/abs/2512.18932v1)
+
+- **LouvreSAE: Sparse Autoencoders for Interpretable and Controllable Style Transfer**
+  - 📅 2025-12-22 | 🏷️ `cs.CV, cs.AI, cs.GR`
+  - [Read Paper](https://arxiv.org/abs/2512.18930v1)
+
+- **The Ensemble Schr{ö}dinger Bridge filter for Nonlinear Data Assimilation**
+  - 📅 2025-12-22 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18928v1)
+
+- **An Empirical Study of Developer-Provided Context for AI Coding Assistants in Open-Source Projects**
+  - 📅 2025-12-21 | 🏷️ `cs.SE, cs.AI, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.18925v1)
+
+- **Testing for latent structure via the Wilcoxon--Wigner random matrix of normalized rank statistics**
+  - 📅 2025-12-21 | 🏷️ `stat.ME, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18924v1)
+
+- **Merging of Kolmogorov-Arnold networks trained on disjoint datasets**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18921v1)
+
+- **Needles in a haystack: using forensic network science to uncover insider trading**
+  - 📅 2025-12-21 | 🏷️ `cs.SI, q-fin.CP`
+  - [Read Paper](https://arxiv.org/abs/2512.18918v1)
+
+- **Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18910v1)
+
+- **Multimodal Bayesian Network for Robust Assessment of Casualties in Autonomous Triage**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18908v1)
+
+- **Remedy-R: Generative Reasoning for Machine Translation Evaluation without Error Annotations**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18906v1)
+
+- **Gabliteration: Adaptive Multi-Directional Neural Weight Modification for Selective Behavioral Alteration in Large Language Models**
+  - 📅 2025-12-21 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18901v1)
+
+- **Thinking Beyond Labels: Vocabulary-Free Fine-Grained Recognition using Reasoning-Augmented LMMs**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18897v1)
+
+- **Structural Reinforcement Learning for Heterogeneous Agent Macroeconomics**
+  - 📅 2025-12-21 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18892v1)
+
+- **Localising Shortcut Learning in Pixel Space via Ordinal Scoring Correlations for Attribution Representations (OSCAR)**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18888v1)
+
+- **Can LLMs Estimate Student Struggles? Human-AI Difficulty Alignment with Proficiency Simulation for Item Difficulty Prediction**
+  - 📅 2025-12-21 | 🏷️ `cs.CL, cs.AI, cs.CY`
+  - [Read Paper](https://arxiv.org/abs/2512.18880v1)
+
+- **CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18878v1)
+
+- **Psychometric Validation of the Sophotechnic Mediation Scale and a New Understanding of the Development of GenAI Mastery: Lessons from 3,392 Adult Brazilian Workers**
+  - 📅 2025-12-21 | 🏷️ `cs.CY, cs.AI, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.18871v1)
+
+- **Application of deep learning approaches for medieval historical documents transcription**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18865v1)
+
+- **Cross-modal Counterfactual Explanations: Uncovering Decision Factors and Dataset Biases in Subjective Classification**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.MM`
+  - [Read Paper](https://arxiv.org/abs/2512.18864v1)
+
+- **Merge on workspaces as Hopf algebra Markov chain**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18861v1)
+
+- **Toward Human-Centered AI-Assisted Terminology Work**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18859v1)
+
+- **CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning**
+  - 📅 2025-12-21 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18857v1)
+
+- **VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.18853v1)
+
+- **Brain-Gen: Towards Interpreting Neural Signals for Stimulus Reconstruction Using Transformers and Latent Diffusion Models**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18843v1)
+
+- **MDToC: Metacognitive Dynamic Tree of Concepts for Boosting Mathematical Problem-Solving of Large Language Models**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18841v1)
+
+- **Generative Modeling through Spectral Analysis of Koopman Operator**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18837v1)
+
+- **AraMix: Recycling, Refiltering, and Deduplicating to Deliver the Largest Arabic Pretraining Corpus**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18834v1)
+
+- **From Word to World: Can Large Language Models be Implicit Text-based World Models?**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18832v1)
+
+- **HARBOR: Holistic Adaptive Risk assessment model for BehaviORal healthcare**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18829v1)
+
+- **Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18826v1)
+
+- **Controllable Probabilistic Forecasting with Stochastic Decomposition Layers**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18815v1)
+
+- **EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18814v1)
+
+- **Revealing Perception and Generation Dynamics in LVLMs: Mitigating Hallucinations via Validated Dominance Correction**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18813v1)
+
+- **FedVideoMAE: Efficient Privacy-Preserving Federated Video Moderation**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI, cs.MM`
+  - [Read Paper](https://arxiv.org/abs/2512.18809v1)
+
+- **Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.MM, cs.SD`
+  - [Read Paper](https://arxiv.org/abs/2512.18804v1)
+
+- **Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs**
+  - 📅 2025-12-21 | 🏷️ `cs.SD, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18797v1)
+
+- **The Dead Salmons of AI Interpretability**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18792v1)
+
+- **Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform**
+  - 📅 2025-12-21 | 🏷️ `cs.SD, cs.AI, cs.CR`
+  - [Read Paper](https://arxiv.org/abs/2512.18791v1)
+
+- **RIS-Enabled Smart Wireless Environments: Fundamentals and Distributed Optimization**
+  - 📅 2025-12-21 | 🏷️ `cs.IT, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18788v1)
+
+- **Eff-GRot: Efficient and Generalizable Rotation Estimation with Transformers**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18784v1)
+
+- **From Natural Language to Control Signals: A Conceptual Framework for Semantic Channel Finding in Complex Experimental Infrastructure**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18779v1)
+
+- **Label-Informed Outlier Detection Based on Granule Density**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18774v1)
+
+- **In-Context Audio Control of Video Diffusion Transformers**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18772v1)
+
+- **MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18766v1)
+
+- **Gaussian-Mixture-Model Q-Functions for Policy Iteration in Reinforcement Learning**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18763v1)
+
+- **MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18755v1)
+
+- **Context-Aware Network Based on Multi-scale Spatio-temporal Attention for Action Recognition in Videos**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18750v1)
+
+- **Code2Doc: A Quality-First Curated Dataset for Code Documentation**
+  - 📅 2025-12-21 | 🏷️ `cs.SE, cs.AI, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18748v1)
+
+- **IPCV: Information-Preserving Compression for MLLM Visual Encoders**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18747v1)
+
+- **MemEvolve: Meta-Evolution of Agent Memory Systems**
+  - 📅 2025-12-21 | 🏷️ `cs.CL, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18746v1)
+
+- **InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18745v1)
+
+- **Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18741v1)
+
+- **AMLID: An Adaptive Multispectral Landmine Identification Dataset for Drone-Based Detection**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18738v1)
+
+- **PIPCFR: Pseudo-outcome Imputation with Post-treatment Variables for Individual Treatment Effect Estimation**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18737v1)
+
+- **Is Your Conditional Diffusion Model Actually Denoising?**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18736v1)
+
+- **$M^3-Verse$: A "Spot the Difference" Challenge for Large Multimodal Models**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18735v1)
+
+- **Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18734v1)
+
+- **Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**
+  - 📅 2025-12-21 | 🏷️ `cs.CR, cs.AI, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18733v1)
+
+- **Counterfactual Basis Extension and Representational Geometry: An MDL-Constrained Model of Conceptual Growth**
+  - 📅 2025-12-21 | 🏷️ `cs.AI, cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18732v1)
+
+- **A Theoretical Lens for RL-Tuned Language Models via Energy-Based Models**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18730v1)
+
+- **ML Inference Scheduling with Predictable Latency**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18725v1)
+
+- **Generating Risky Samples with Conformity Constraints via Diffusion Models**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18722v1)
+
+- **Unsupervised Feature Selection via Robust Autoencoder and Adaptive Graph Learning**
+  - 📅 2025-12-21 | 🏷️ `stat.ML, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18720v1)
+
+- **Rectification Reimagined: A Unified Mamba Model for Image Correction and Rectangling with Prompts**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18718v1)
+
+- **KeenKT: Knowledge Mastery-State Disambiguation for Knowledge Tracing**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18709v1)
+
+- **CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles**
+  - 📅 2025-12-21 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18703v1)
+
+- **Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**
+  - 📅 2025-12-21 | 🏷️ `cs.SD, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18699v1)
+
+- **EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18692v1)
+
+- **Fusion of Multiscale Features Via Centralized Sparse-attention Network for EEG Decoding**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18689v1)
+
+- **Social Comparison without Explicit Inference of Others' Reward Values: A Constructive Approach Using a Probabilistic Generative Model**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18687v1)
+
+- **A Study of Finetuning Video Transformers for Multi-view Geometry Tasks**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18684v1)
+
+- **Solver-Independent Automated Problem Formulation via LLMs for High-Cost Simulation-Driven Design**
+  - 📅 2025-12-21 | 🏷️ `cs.CL, cs.SE`
+  - [Read Paper](https://arxiv.org/abs/2512.18682v1)
+
+- **brat: Aligned Multi-View Embeddings for Brain MRI Analysis**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18679v1)
+
+- **AsyncDiff: Asynchronous Timestep Conditioning for Enhanced Text-to-Image Diffusion Inference**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18675v1)
+
+- **Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing**
+  - 📅 2025-12-21 | 🏷️ `cs.DC, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18674v1)
+
+- **Improving Pattern Recognition of Scheduling Anomalies through Structure-Aware and Semantically-Enhanced Graphs**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18673v1)
+
+- **SmartSight: Mitigating Hallucination in Video-LLMs Without Compromising Video Understanding via Temporal Attention Collapse**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18671v1)
+
+- **Demonstration-Guided Continual Reinforcement Learning in Dynamic Environments**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18670v1)
+
+- **IntelliCode: A Multi-Agent LLM Tutoring System with Centralized Learner Modeling**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18669v1)
+
+- **Automatic Adaptation to Concept Complexity and Subjective Natural Concepts: A Cognitive Model based on Chunking**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18665v1)
+
+- **Offline Reinforcement Learning for End-to-End Autonomous Driving**
+  - 📅 2025-12-21 | 🏷️ `cs.RO, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18662v1)
+
+- **ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18661v1)
+
+- **PMPGuard: Catching Pseudo-Matched Pairs in Remote Sensing Image-Text Retrieval**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.LG, cs.MM`
+  - [Read Paper](https://arxiv.org/abs/2512.18660v1)
+
+- **Does It Tie Out? Towards Autonomous Legal Agents in Venture Capital**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18658v1)
+
+- **SplatBright: Generalizable Low-Light Scene Reconstruction from Sparse Views via Physically-Guided Gaussian Enhancement**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18655v1)
+
+- **Adversarial Robustness in Zero-Shot Learning:An Empirical Study on Class and Concept-Level Vulnerabilities**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18651v1)
+
+- **Optimal Signal Extraction from Order Flow: A Matched Filter Perspective on Normalization and Market Microstructure**
+  - 📅 2025-12-21 | 🏷️ `q-fin.CP`
+  - [Read Paper](https://arxiv.org/abs/2512.18648v1)
+
+- **Geometric-Photometric Event-based 3D Gaussian Ray Tracing**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.18640v1)
+
+- **Uni-Neur2Img: Unified Neural Signal-Guided Image Generation, Editing, and Stylization via Diffusion Transformers**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18635v1)
+
+- **From Shortcut to Induction Head: How Data Diversity Shapes Algorithm Selection in Transformers**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18634v1)
+
+- **ARC: Leveraging Compositional Representations for Cross-Problem Learning on VRPs**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18633v1)
+
+- **LLM-CAS: Dynamic Neuron Perturbation for Real-Time Hallucination Correction**
+  - 📅 2025-12-21 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18623v1)
+
+- **A Multi-agent Text2SQL Framework using Small Language Models and Execution Feedback**
+  - 📅 2025-12-21 | 🏷️ `cs.DB, cs.AI, cs.CL, cs.HC, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18622v1)
+
+- **ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning**
+  - 📅 2025-12-21 | 🏷️ `cs.AI, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.18619v1)
+
+- **Assignment-Routing Optimization: Solvers for Problems Under Constraints**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18618v1)
+
+- **DASH: Deception-Augmented Shared Mental Model for a Human-Machine Teaming System**
+  - 📅 2025-12-21 | 🏷️ `cs.HC, cs.AI, cs.CR, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18616v1)
+
+- **PTTA: A Pure Text-to-Animation Framework for High-Quality Creation**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18614v1)
+
+- **Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18613v1)
+
+- **The Procrustean Bed of Time Series: The Optimization Bias of Point-wise Loss**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18610v1)
+
+- **A Comparative Study of Light-weight Language Models for PII Masking and their Deployment for Real Conversational Texts**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18608v1)
+
+- **The Interaction Bottleneck of Deep Neural Networks: Discovery, Proof, and Modulation**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18607v1)
+
+- **Reflective Confidence: Correcting Reasoning Flaws via Online Self-Correction**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18605v1)
+
+- **Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18604v1)
+
+- **On Finding Inconsistencies in Documents**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18601v1)
+
+- **SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18599v1)
+
+- **Commercial Vehicle Braking Optimization: A Robust SIFT-Trajectory Approach**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.GR`
+  - [Read Paper](https://arxiv.org/abs/2512.18597v1)
+
+- **EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18596v1)
+
+- **Benchmarking neural surrogates on realistic spatiotemporal multiphysics flows**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18595v1)
+
+- **From Scratch to Fine-Tuned: A Comparative Study of Transformer Training Strategies for Legal Machine Translation**
+  - 📅 2025-12-21 | 🏷️ `cs.CL, cs.AI, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.18593v1)
+
+- **SD2AIL: Adversarial Imitation Learning from Synthetic Demonstrations via Diffusion Models**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.18583v1)
+
+- **Modality-Dependent Memory Mechanisms in Cross-Modal Neuromorphic Computing**
+  - 📅 2025-12-21 | 🏷️ `cs.LG, cs.AI, cs.NE`
+  - [Read Paper](https://arxiv.org/abs/2512.18575v1)
+
+- **Placenta Accreta Spectrum Detection Using an MRI-based Hybrid CNN-Transformer Model**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18573v1)
+
+- **ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning**
+  - 📅 2025-12-21 | 🏷️ `cs.AI, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18571v1)
+
+- **AI Code in the Wild: Measuring Security Risks and Ecosystem Shifts of AI-Generated Code in Modern Software**
+  - 📅 2025-12-21 | 🏷️ `cs.SE, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18567v1)
+
+- **Comparing Dynamical Models Through Diffeomorphic Vector Field Alignment**
+  - 📅 2025-12-21 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18566v1)
+
+- **Vox Deorum: A Hybrid LLM Architecture for 4X / Grand Strategy Game AI -- Lessons from Civilization V**
+  - 📅 2025-12-21 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18564v1)
+
+- **OpenView: Empowering MLLMs with Out-of-view VQA**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18563v1)
+
+- **Adaptive Accountability in Networked MAS: Tracing and Mitigating Emergent Norms at Scale**
+  - 📅 2025-12-21 | 🏷️ `cs.MA, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18561v1)
+
+- **Enhancing Medical Large Vision-Language Models via Alignment Distillation**
+  - 📅 2025-12-21 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18554v1)
+
+- **Hierarchical Bayesian Framework for Multisource Domain Adaptation**
+  - 📅 2025-12-21 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18553v1)
+
+- **Toward Training Superintelligent Software Agents through Self-Play SWE-RL**
+  - 📅 2025-12-21 | 🏷️ `cs.SE, cs.AI, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18552v1)
+
+- **Neologism Learning as a Parameter-Efficient Alternative to Fine-Tuning for Model Steering**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18551v1)
+
+- **LLMs on Drugs: Language Models Are Few-Shot Consumers**
+  - 📅 2025-12-21 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18546v1)
+
+- **SecureCode v2.0: A Production-Grade Dataset for Training Security-Aware Code Generation Models**
+  - 📅 2025-12-20 | 🏷️ `cs.CR, cs.AI, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18542v1)
+
+- **Scaling up Stability: Reinforcement Learning for Distributed Control of Networked Systems in the Space of Stabilizing Policies**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18540v1)
+
+- **Generalization Gaps in Political Fake News Detection: An Empirical Study on the LIAR Dataset**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18533v1)
+
+- **Pushing the limits of one-dimensional NMR spectroscopy for automated structure elucidation using artificial intelligence**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18531v1)
+
+- **WoundNet-Ensemble: A Novel IoMT System Integrating Self-Supervised Deep Learning and Multi-Model Fusion for Automated, High-Accuracy Wound Classification and Healing Progression Monitoring**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18528v1)
+
+- **Detection of AI Generated Images Using Combined Uncertainty Measures and Particle Swarm Optimised Rejection Mechanism**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18527v1)
+
+- **A Formal Descriptive Language for Learning Dynamics: A Five-Layer Structural Coordinate System**
+  - 📅 2025-12-20 | 🏷️ `cs.CY, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18525v1)
+
+- **Feature-Enhanced Graph Neural Networks for Classification of Synthetic Graph Generative Models: A Benchmarking Study**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18524v1)
+
+- **Prediction and Forecast of Short-Term Drought Impacts Using Machine Learning to Support Mitigation and Adaptation Efforts**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18522v1)
+
+- **The Illusion of Consistency: Selection-Induced Bias in Gated Kalman Innovation Statistics**
+  - 📅 2025-12-20 | 🏷️ `stat.ME, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18508v1)
+
+- **Teaching and Critiquing Conceptualization and Operationalization in NLP**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18505v1)
+
+- **GTMA: Dynamic Representation Optimization for OOD Vision-Language Models**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18504v1)
+
+- **NASTaR: NovaSAR Automated Ship Target Recognition Dataset**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18503v1)
+
+- **PlantDiseaseNet-RT50: A Fine-tuned ResNet50 Architecture for High-Accuracy Plant Disease Detection Beyond Standard CNNs**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18500v1)
+
+- **Adaptive-VoCo: Complexity-Aware Visual Token Compression for Vision-Language Models**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18496v1)
+
+- **Enhancing Decision-Making in Windows PE Malware Classification During Dataset Shifts with Uncertainty Estimation**
+  - 📅 2025-12-20 | 🏷️ `cs.CR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18495v1)
+
+- **Large Language Models as Discounted Bayesian Filters**
+  - 📅 2025-12-20 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18489v1)
+
+- **Insider Threat Detection Using GCN and Bi-LSTM with Explicit and Implicit Graph Representations**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.CR`
+  - [Read Paper](https://arxiv.org/abs/2512.18483v1)
+
+- **STORM: Search-Guided Generative World Models for Robotic Manipulation**
+  - 📅 2025-12-20 | 🏷️ `cs.RO, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18477v1)
+
+- **Research on a hybrid LSTM-CNN-Attention model for text-based web content classification**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18475v1)
+
+- **APC-GNN++: An Adaptive Patient-Centric GNN with Context-Aware Attention and Mini-Graph Explainability for Diabetes Classification**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18473v1)
+
+- **The Geometry of Abstraction: Continual Learning via Recursive Quotienting**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18471v1)
+
+- **SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios**
+  - 📅 2025-12-20 | 🏷️ `cs.SE, cs.AI, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18470v1)
+
+- **Self-organizing maps for water quality assessment in reservoirs and lakes: A systematic literature review**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18466v1)
+
+- **Mitigating Spurious Correlations in NLI via LLM-Synthesized Counterfactuals and Dynamic Balanced Sampling**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18462v1)
+
+- **SoK: Understanding (New) Security Issues Across AI4Code Use Cases**
+  - 📅 2025-12-20 | 🏷️ `cs.CR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18456v1)
+
+- **Plasticine: A Traceable Diffusion Model for Medical Image Translation**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18455v1)
+
+- **Out-of-Distribution Detection in Molecular Complexes via Diffusion Models for Irregular Graphs**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18454v1)
+
+- **NOVA: Discovering Well-Conditioned Winograd Transforms through Numerical Optimization of Vandermonde Arithmetic**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18453v1)
+
+- **Secret mixtures of experts inside your LLM**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18452v1)
+
+- **Agent-Based Output Drift Detection for Breast Cancer Response Prediction in a Multisite Clinical Decision Support System**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.CV, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18450v1)
+
+- **Object-Centric Framework for Video Moment Retrieval**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18448v1)
+
+- **On the Universality of Transformer Architectures; How Much Attention Is Enough?**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18445v1)
+
+- **Snowveil: A Framework for Decentralised Preference Discovery**
+  - 📅 2025-12-20 | 🏷️ `cs.GT, cs.AI, cs.DC, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18444v1)
+
+- **A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing**
+  - 📅 2025-12-20 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18441v1)
+
+- **An Agentic AI Framework for Training General Practitioner Student Skills**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18440v1)
+
+- **MeniMV: A Multi-view Benchmark for Meniscus Injury Severity Grading**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18437v1)
+
+- **VeruSAGE: A Study of Agent-Based Verification for Rust Systems**
+  - 📅 2025-12-20 | 🏷️ `cs.OS, cs.AI, cs.FL, cs.SE`
+  - [Read Paper](https://arxiv.org/abs/2512.18436v1)
+
+- **Federated Learning Based Decentralized Adaptive Intelligent Transmission Protocol for Privacy Preserving 6G Networks**
+  - 📅 2025-12-20 | 🏷️ `cs.CR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18432v1)
+
+- **E-RGB-D: Real-Time Event-Based Perception with Structured Light**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18429v1)
+
+- **MoE Pathfinder: Trajectory-driven Expert Pruning**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18425v1)
+
+- **Few-Shot Learning of a Graph-Based Neural Network Model Without Backpropagation**
+  - 📅 2025-12-20 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18412v1)
+
+- **AmPLe: Supporting Vision-Language Models via Adaptive-Debiased Ensemble Multi-Prompt Learning**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18411v1)
+
+- **Why Most Optimism Bandit Algorithms Have the Same Regret Analysis: A Simple Unifying Theorem**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18409v1)
+
+- **Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18407v1)
+
+- **Automated Mosaic Tesserae Segmentation via Deep Learning Techniques**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18406v1)
+
+- **AraToken: Optimizing Arabic Tokenization with Normalization Pipeline and Language Extension for Qwen3**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18399v1)
+
+- **The Challenger: When Do New Data Sources Justify Switching Machine Learning Models?**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18390v1)
+
+- **Neural Proofs for Sound Verification and Control of Complex Systems**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.LG, cs.LO`
+  - [Read Paper](https://arxiv.org/abs/2512.18389v1)
+
+- **Exploration vs. Fixation: Scaffolding Divergent and Convergent Thinking for Human-AI Co-Creation with Generative Models**
+  - 📅 2025-12-20 | 🏷️ `cs.HC, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18388v1)
+
+- **RecurGS: Interactive Scene Modeling via Discrete-State Recurrent Gaussian Fusion**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18386v1)
+
+- **Datasets for machine learning and for assessing the intelligence level of automatic patent search systems**
+  - 📅 2025-12-20 | 🏷️ `cs.IR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18384v1)
+
+- **Towards Guided Descent: Optimization Algorithms for Training Neural Networks At Scale**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18373v1)
+
+- **PSI3D: Plug-and-Play 3D Stochastic Inference with Slice-wise Latent Diffusion Prior**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18367v1)
+
+- **Efficient Zero-Shot Inpainting with Decoupled Diffusion Guidance**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18365v1)
+
+- **Enhancing 3D Semantic Scene Completion with a Refinement Module**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18363v1)
+
+- **SRS-Stories: Vocabulary-constrained multilingual story generation for language learning**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18362v1)
+
+- **LLM Agents Implement an NLG System from Scratch: Building Interpretable Rule-Based RDF-to-Text Generators**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18360v1)
+
+- **DACE For Railway Acronym Disambiguation**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18357v1)
+
+- **LLM-based Few-Shot Early Rumor Detection with Imitation Agent**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18352v1)
+
+- **MCVI-SANet: A lightweight semi-supervised model for LAI and SPAD estimation of winter wheat under vegetation index saturation**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18344v1)
+
+- **Towards Efficient Agents: A Co-Design of Inference Architecture and System**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18337v1)
+
+- **Dynamic Entropy Tuning in Reinforcement Learning Low-Level Quadcopter Control: Stochasticity vs Determinism**
+  - 📅 2025-12-20 | 🏷️ `cs.RO, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18336v1)
+
+- **Reinforcement Learning Position Control of a Quadrotor Using Soft Actor-Critic (SAC)**
+  - 📅 2025-12-20 | 🏷️ `cs.RO, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18333v1)
+
+- **A two-stream network with global-local feature fusion for bone age assessment**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18331v1)
+
+- **LIR$^3$AG: A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18329v1)
+
+- **CTTA-T: Continual Test-Time Adaptation for Text Understanding via Teacher-Student with a Domain-aware and Generalized Teacher**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18321v1)
+
+- **Asynchronous Pipeline Parallelism for Real-Time Multilingual Lip Synchronization in Video Communication Systems**
+  - 📅 2025-12-20 | 🏷️ `cs.MM, cs.AI, cs.CV, cs.DC, cs.NI`
+  - [Read Paper](https://arxiv.org/abs/2512.18318v1)
+
+- **Trustworthy and Explainable Deep Reinforcement Learning for Safe and Energy-Efficient Process Control: A Use Case in Industrial Compressed Air Systems**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18317v1)
+
+- **On Efficient Adjustment in Causal Graphs**
+  - 📅 2025-12-20 | 🏷️ `stat.ME, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18315v1)
+
+- **MatSpray: Fusing 2D Material World Knowledge on 3D Geometry**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.GR`
+  - [Read Paper](https://arxiv.org/abs/2512.18314v1)
+
+- **MatE: Material Extraction from Single-Image via Geometric Prior**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18312v1)
+
+- **Monitoring Monitorability**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.SE`
+  - [Read Paper](https://arxiv.org/abs/2512.18311v1)
+
+- **Embedded Safety-Aligned Intelligence via Differentiable Internal Alignment Embeddings**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18309v1)
+
+- **InstructNet: A Novel Approach for Multi-Label Instruction Classification through Advanced Deep Learning**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18301v1)
+
+- **Explainable Transformer-CNN Fusion for Noise-Robust Speech Emotion Recognition**
+  - 📅 2025-12-20 | 🏷️ `cs.SD, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18298v1)
+
+- **AL-GNN: Privacy-Preserving and Replay-Free Continual Graph Learning via Analytic Learning**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18295v1)
+
+- **Measuring Fine-Grained Negotiation Tactics of Humans and LLMs in Diplomacy**
+  - 📅 2025-12-20 | 🏷️ `cs.CY, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18292v1)
+
+- **Pyramidal Adaptive Cross-Gating for Multimodal Detection**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18291v1)
+
+- **UniMPR: A Unified Framework for Multimodal Place Recognition with Arbitrary Sensor Configurations**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18279v1)
+
+- **FedSUM Family: Efficient Federated Learning Methods under Arbitrary Client Participation**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18275v1)
+
+- **Evolutionary BP+OSD Decoding for Low-Latency Quantum Error Correction**
+  - 📅 2025-12-20 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18273v1)
+
+- **Building UI/UX Dataset for Dark Pattern Detection and YOLOv12x-based Real-Time Object Recognition Detection System**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18269v1)
+
+- **LeJOT: An Intelligent Job Cost Orchestration Solution for Databricks Platform**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18266v1)
+
+- **Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration**
+  - 📅 2025-12-20 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18265v1)
+
+- **Who Can See Through You? Adversarial Shielding Against VLM-Based Attribute Inference Attacks**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI, cs.CR`
+  - [Read Paper](https://arxiv.org/abs/2512.18264v1)
+
+- **TICL+: A Case Study On Speech In-Context Learning for Children's Speech Recognition**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18263v1)
+
+- **Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective**
+  - 📅 2025-12-20 | 🏷️ `cs.SE, cs.AI, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.18261v1)
+
+- **MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical Subject Classification**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.LO`
+  - [Read Paper](https://arxiv.org/abs/2512.18256v1)
+
+- **Central Limit Theorem for ergodic averages of Markov chains \& the comparison of sampling algorithms for heavy-tailed distributions**
+  - 📅 2025-12-20 | 🏷️ `stat.CO, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18255v1)
+
+- **Loom: Diffusion-Transformer for Interleaved Generation**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18254v1)
+
+- **CrystalFormer-CSP: Thinking Fast and Slow for Crystal Structure Prediction**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18251v1)
+
+- **On the Convergence Rate of LoRA Gradient Descent**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18248v1)
+
+- **Towards Ancient Plant Seed Classification: A Benchmark Dataset and Baseline Model**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18247v1)
+
+- **Offline Behavioral Data Selection**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18246v1)
+
+- **Spectral Discrepancy and Cross-modal Semantic Consistency Learning for Object Detection in Hyperspectral Image**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18245v1)
+
+- **Breaking Minds, Breaking Systems: Jailbreaking Large Language Models via Human-like Psychological Manipulation**
+  - 📅 2025-12-20 | 🏷️ `cs.CR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18244v1)
+
+- **SG-RIFE: Semantic-Guided Real-Time Intermediate Flow Estimation with Diffusion-Competitive Perceptual Quality**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18241v1)
+
+- **Joint Learning of Depth, Pose, and Local Radiance Field for Large Scale Monocular 3D Reconstruction**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.18237v1)
+
+- **AutoSchA: Automatic Hierarchical Music Representations via Multi-Relational Node Isolation**
+  - 📅 2025-12-20 | 🏷️ `cs.SD, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18232v1)
+
+- **Investigating Spatial Attention Bias in Vision-Language Models**
+  - 📅 2025-12-20 | 🏷️ `cs.CV, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18231v1)
+
+- **Dimensionality Reduction Considered Harmful (Some of the Time)**
+  - 📅 2025-12-20 | 🏷️ `cs.HC, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18230v1)
+
+- **Toward Efficient Testing of Graph Neural Networks via Test Input Prioritization**
+  - 📅 2025-12-20 | 🏷️ `cs.SE, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18228v1)
+
+- **Multifaceted Exploration of Spatial Openness in Rental Housing: A Big Data Analysis in Tokyo's 23 Wards**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18226v1)
+
+- **GeoSense-AI: Fast Location Inference from Crisis Microblogs**
+  - 📅 2025-12-20 | 🏷️ `cs.CL, cs.SI`
+  - [Read Paper](https://arxiv.org/abs/2512.18225v1)
+
+- **Unsupervised Anomaly Detection with an Enhanced Teacher for Student-Teacher Feature Pyramid Matching**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18219v1)
+
+- **Stable and Efficient Single-Rollout RL for Multimodal Reasoning**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI, cs.CL, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18215v1)
+
+- **LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**
+  - 📅 2025-12-20 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18211v1)
+
+- **When Does Learning Renormalize? Sufficient Conditions for Power Law Spectral Dynamics**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18209v1)
+
+- **Sophia: A Persistent Agent Framework of Artificial Life**
+  - 📅 2025-12-20 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18202v1)
+
+- **SLIM: Semantic-based Low-bitrate Image compression for Machines by leveraging diffusion**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18200v1)
+
+- **PROVEX: Enhancing SOC Analyst Trust with Explainable Provenance-Based IDS**
+  - 📅 2025-12-20 | 🏷️ `cs.CR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18199v1)
+
+- **Standardized Evaluation of Automatic Methods for Perivascular Spaces Segmentation in MRI -- MICCAI 2024 Challenge Results**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18197v1)
+
+- **Training LLMs with LogicReward for Faithful and Rigorous Reasoning**
+  - 📅 2025-12-20 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18196v1)
+
+- **Multi-Part Object Representations via Graph Structures and Co-Part Discovery**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18192v1)
+
+- **External Hippocampus: Topological Cognitive Maps for Guiding Large Language Model Reasoning**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18190v1)
+
+- **NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.SC`
+  - [Read Paper](https://arxiv.org/abs/2512.18189v1)
+
+- **ALIGN: Advanced Query Initialization with LiDAR-Image Guidance for Occlusion-Robust 3D Object Detection**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18187v1)
+
+- **Is There a Better Source Distribution than Gaussian? Exploring Source Distributions for Image Flow Matching**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18184v1)
+
+- **MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18181v1)
+
+- **FairExpand: Individual Fairness on Graphs with Partial Similarity Information**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18180v1)
+
+- **NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI**
+  - 📅 2025-12-20 | 🏷️ `cs.AI, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18177v1)
+
+- **Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18176v1)
+
+- **Conscious Data Contribution via Community-Driven Chain-of-Thought Distillation**
+  - 📅 2025-12-20 | 🏷️ `cs.LG, cs.CR, cs.CY`
+  - [Read Paper](https://arxiv.org/abs/2512.18174v1)
+
+- **Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18161v1)
+
+- **Propose, Solve, Verify: Self-Play Through Formal Verification**
+  - 📅 2025-12-20 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18160v1)
+
+- **EndoStreamDepth: Temporally Consistent Monocular Depth Estimation for Endoscopic Video Streams**
+  - 📅 2025-12-20 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18159v1)
+
+- **Estimating Solvation Free Energies with Boltzmann Generators**
+  - 📅 2025-12-20 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18147v1)
+
+- **On Swarm Leader Identification using Probing Policies**
+  - 📅 2025-12-20 | 🏷️ `cs.RO, cs.AI, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18146v1)
+
+- **Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications**
+  - 📅 2025-12-19 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18135v1)
+
+- **Optimal Software Pipelining and Warp Specialization for Tensor Core GPUs**
+  - 📅 2025-12-19 | 🏷️ `cs.PL, cs.AR, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18134v1)
+
+- **Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI, cs.CR`
+  - [Read Paper](https://arxiv.org/abs/2512.18133v1)
+
+- **Holistic Evaluation of State-of-the-Art LLMs for Code Generation**
+  - 📅 2025-12-19 | 🏷️ `cs.SE, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18131v1)
+
+- **TraCeR: Transformer-Based Competing Risk Analysis with Longitudinal Covariates**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.18129v1)
+
+- **SERA-H: Beyond Native Sentinel Spatial Limits for High-Resolution Canopy Height Mapping**
+  - 📅 2025-12-19 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18128v1)
+
+- **Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive Pruning, and Dependency-Aware Prefill-Decode Overlap**
+  - 📅 2025-12-19 | 🏷️ `cs.AI, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18126v1)
+
+- **Exploring polymer classification with a hybrid single-photon quantum approach**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18125v1)
+
+- **Learning Generalizable Neural Operators for Inverse Problems**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18120v1)
+
+- **Distributed Asymmetric Allocation: A Topic Model for Large Imbalanced Corpora in Social Sciences**
+  - 📅 2025-12-19 | 🏷️ `stat.ME, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.18119v1)
+
+- **Layout-Aware Text Editing for Efficient Transformation of Academic PDFs to Markdown**
+  - 📅 2025-12-19 | 🏷️ `cs.MM, cs.CL, cs.CV, cs.DL`
+  - [Read Paper](https://arxiv.org/abs/2512.18115v1)
+
+- **Microstructure-based Variational Neural Networks for Robust Uncertainty Quantification in Materials Digital Twins**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18104v1)
+
+- **From Coverage to Causes: Data-Centric Fuzzing for JavaScript Engines**
+  - 📅 2025-12-19 | 🏷️ `cs.SE, cs.CR, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18102v1)
+
+- **Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks**
+  - 📅 2025-12-19 | 🏷️ `cs.AI, cs.MA`
+  - [Read Paper](https://arxiv.org/abs/2512.18094v1)
+
+- **Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability**
+  - 📅 2025-12-19 | 🏷️ `cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18092v1)
+
+- **Causal Inference as Distribution Adaptation: Optimizing ATE Risk under Propensity Uncertainty**
+  - 📅 2025-12-19 | 🏷️ `stat.ML, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18083v1)
+
+- **Uncertainty-Gated Region-Level Retrieval for Robust Semantic Segmentation**
+  - 📅 2025-12-19 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18082v1)
+
+- **From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems**
+  - 📅 2025-12-19 | 🏷️ `cs.HC, cs.AI, cs.SE`
+  - [Read Paper](https://arxiv.org/abs/2512.18080v1)
+
+- **Characterising Behavioural Families and Dynamics of Promotional Twitter Bots via Sequence-Based Modelling**
+  - 📅 2025-12-19 | 🏷️ `cs.SI, cs.AI, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.18077v1)
+
+- **FPBench: A Comprehensive Benchmark of Multimodal Large Language Models for Fingerprint Analysis**
+  - 📅 2025-12-19 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18073v1)
+
+- **Statistical laws and linguistics inform meaning in naturalistic and fictional conversation**
+  - 📅 2025-12-19 | 🏷️ `cs.CL, cs.CY`
+  - [Read Paper](https://arxiv.org/abs/2512.18072v1)
+
+- **Graph-based Nearest Neighbors with Dynamic Updates via Random Walks**
+  - 📅 2025-12-19 | 🏷️ `cs.DS, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18060v1)
+
+- **Approximation and learning with compositional tensor trains**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18059v1)
+
+- **FOODER: Real-time Facial Authentication and Expression Recognition**
+  - 📅 2025-12-19 | 🏷️ `cs.CV, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18057v1)
+
+- **Probabilistic Digital Twins of Users: Latent Representation Learning with Statistically Validated Semantics**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.SI`
+  - [Read Paper](https://arxiv.org/abs/2512.18056v1)
+
+- **YolovN-CBi: A Lightweight and Efficient Architecture for Real-Time Detection of Small UAVs**
+  - 📅 2025-12-19 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18046v1)
+
+- **Securing Agentic AI Systems -- A Multilayer Security Framework**
+  - 📅 2025-12-19 | 🏷️ `cs.CR, cs.AI, cs.CY`
+  - [Read Paper](https://arxiv.org/abs/2512.18043v1)
+
+- **Narrative Consolidation: Formulating a New Task for Unifying Multi-Perspective Accounts**
+  - 📅 2025-12-19 | 🏷️ `cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18041v1)
+
+- **NodMAISI: Nodule-Oriented Medical AI for Synthetic Imaging**
+  - 📅 2025-12-19 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18038v1)
+
+- **Towards Benchmarking Privacy Vulnerabilities in Selective Forgetting with Large Language Models**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.CR`
+  - [Read Paper](https://arxiv.org/abs/2512.18035v1)
+
+- **Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility Layout**
+  - 📅 2025-12-19 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18034v1)
+
+- **A Dataset and Benchmarks for Atrial Fibrillation Detection from Electrocardiograms of Intensive Care Unit Patients**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18031v1)
+
+- **Long-range electrostatics for machine learning interatomic potentials is easier than we thought**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18029v1)
+
+- **Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation**
+  - 📅 2025-12-19 | 🏷️ `cs.RO, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18028v1)
+
+- **CoPE: A Small Language Model for Steerable and Scalable Content Labeling**
+  - 📅 2025-12-19 | 🏷️ `cs.CL, cs.CY, cs.SI`
+  - [Read Paper](https://arxiv.org/abs/2512.18027v1)
+
+- **Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models**
+  - 📅 2025-12-19 | 🏷️ `cs.ET, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18021v1)
+
+- **Specification and Detection of LLM Code Smells**
+  - 📅 2025-12-19 | 🏷️ `cs.SE, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.18020v1)
+
+- **ReGal: A First Look at PPO-based Legal AI for Judgment Prediction and Summarization in India**
+  - 📅 2025-12-19 | 🏷️ `cs.CL, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18014v1)
+
+- **Robotic VLA Benefits from Joint Learning with Motion Image Diffusion**
+  - 📅 2025-12-19 | 🏷️ `cs.RO, cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18007v1)
+
+- **Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models**
+  - 📅 2025-12-19 | 🏷️ `cs.CV, cs.AI, cs.CL, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.18004v1)
+
+- **Name That Part: 3D Part Segmentation and Naming**
+  - 📅 2025-12-19 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.18003v1)
+
+- **Visualization of The Content of Surah al Fiil using Marker-Based Augmented Reality**
+  - 📅 2025-12-19 | 🏷️ `q-fin.CP`
+  - [Read Paper](https://arxiv.org/abs/2512.17895v2)
+
+- **The Subject of Emergent Misalignment in Superintelligence: An Anthropological, Cognitive Neuropsychological, Machine-Learning, and Ontological Perspective**
+  - 📅 2025-12-19 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17989v1)
+
+- **Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding**
+  - 📅 2025-12-19 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17817v2)
+
+- **Enhancing Tea Leaf Disease Recognition with Attention Mechanisms and Grad-CAM Visualization**
+  - 📅 2025-12-19 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17987v1)
+
+- **FedOAED: Federated On-Device Autoencoder Denoiser for Heterogeneous Data under Limited Client Availability**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17986v1)
+
+- **MoE-TransMov: A Transformer-based Model for Next POI Prediction in Familiar & Unfamiliar Movements**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17985v1)
+
+- **Estimating Spatially Resolved Radiation Fields Using Neural Networks**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17654v2)
+
+- **SCOPE: Sequential Causal Optimization of Process Interventions**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17629v2)
+
+- **A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17984v1)
+
+- **Parameter-Efficient Fine-Tuning for HAR: Integrating LoRA and QLoRA into Transformer Models**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17983v1)
+
+- **A Unified Representation of Neural Networks Architectures**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17593v2)
+
+- **Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis**
+  - 📅 2025-12-19 | 🏷️ `cs.GT, cs.AI, cs.MA, stat.AP`
+  - [Read Paper](https://arxiv.org/abs/2512.17979v1)
+
+- **MEGState: Phoneme Decoding from Magnetoencephalography Signals**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.SD`
+  - [Read Paper](https://arxiv.org/abs/2512.17978v1)
+
+- **NetworkFF: Unified Layer Optimization in Forward-Only Neural Networks**
+  - 📅 2025-12-19 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17531v2)
+
+- **Sampling from multimodal distributions with warm starts: Non-asymptotic bounds for the Reweighted Annealed Leap-Point Sampler**
+  - 📅 2025-12-19 | 🏷️ `stat.ML, cs.LG, stat.CO`
+  - [Read Paper](https://arxiv.org/abs/2512.17977v1)
+
+- **Alternating Direction Method of Multipliers for Nonlinear Matrix Decompositions**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.17473v2)
+
+- **Learning What to Write: Write-Gated KV for Efficient Long-Context Inference**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17452v2)
+
+- **Xiaomi MiMo-VL-Miloco Technical Report**
+  - 📅 2025-12-19 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17436v2)
+
+- **Generative modeling of conditional probability distributions on the level-sets of collective variables**
+  - 📅 2025-12-19 | 🏷️ `stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.17374v2)
+
+- **TakeAD: Preference-based Post-optimization for End-to-end Autonomous Driving with Expert Takeover Data**
+  - 📅 2025-12-19 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17370v2)
+
+- **Re-assessing the evidence for mental rotation abilities in children using computational models**
+  - 📅 2025-12-19 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17972v1)
+
+- **Towards Pixel-Wise Anomaly Location for High-Resolution PCBA via Self-Supervised Image Reconstruction**
+  - 📅 2025-12-19 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17296v2)
+
+- **CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17970v1)
+
+- **Convolutional-neural-operator-based transfer learning for solving PDEs**
+  - 📅 2025-12-19 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17969v1)
+
+- **A Critical Review of Monte Carlo Algorithms Balancing Performance and Probabilistic Accuracy with AI Augmented Framework**
+  - 📅 2025-12-19 | 🏷️ `stat.CO, cs.AI, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.17968v1)
+
+- **Solomonoff-Inspired Hypothesis Ranking with LLMs for Prediction Under Uncertainty**
+  - 📅 2025-12-19 | 🏷️ `cs.AI, cs.IT`
+  - [Read Paper](https://arxiv.org/abs/2512.17145v2)
+
+- **UniCoMTE: A Universal Counterfactual Framework for Explaining Time-Series Classifiers on ECG Data**
+  - 📅 2025-12-18 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17100v2)
+
+- **Predictive Modeling of Maritime Radar Data Using Transformer Architecture**
+  - 📅 2025-12-18 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17098v2)
+
+- **4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation**
+  - 📅 2025-12-18 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17012v2)
+
+- **AdaTooler-V: Adaptive Tool-Use for Images and Videos**
+  - 📅 2025-12-18 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.16918v2)
+
+- **Exploration vs Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward**
+  - 📅 2025-12-18 | 🏷️ `cs.LG, cs.AI, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.16912v2)
+
+- **Learning Confidence Ellipsoids and Applications to Robust Subspace Recovery**
+  - 📅 2025-12-18 | 🏷️ `cs.DS, cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.16875v2)
+
+- **Discovering and Learning Probabilistic Models of Black-Box AI Capabilities**
+  - 📅 2025-12-18 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.16733v2)
+
+- **Dual Computational Horizons: Incompleteness and Unpredictability in Intelligent Systems**
+  - 📅 2025-12-18 | 🏷️ `cs.AI, cs.LO`
+  - [Read Paper](https://arxiv.org/abs/2512.16707v2)
+
+- **Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance**
+  - 📅 2025-12-18 | 🏷️ `cs.IR, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.16661v2)
+
+- **Scaling Laws for Energy Efficiency of Local LLMs**
+  - 📅 2025-12-18 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.16531v2)
+
+- **The Universe Learning Itself: On the Evolution of Dynamics from the Big Bang to Machine Intelligence**
+  - 📅 2025-12-18 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.16515v2)
+
+- **Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**
+  - 📅 2025-12-18 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.16504v2)
+
+- **Navigating the Reality Gap: Privacy-Preserving Adaptation of ASR for Challenging Low-Resource Domains**
+  - 📅 2025-12-18 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.16401v2)
+
+- **Adaptive Frequency Domain Alignment Network for Medical image segmentation**
+  - 📅 2025-12-18 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.16393v2)
+
+- **Pretrained Battery Transformer (PBT): A battery life prediction foundation model**
+  - 📅 2025-12-18 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.16334v2)
+
+- **Compression is Routing: Reconstruction Error as an Intrinsic Signal for Modular Language Models**
+  - 📅 2025-12-18 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.16963v2)
+
+- **Real-Time Human-Robot Interaction Intent Detection Using RGB-based Pose and Emotion Cues with Cross-Camera Model Generalization**
+  - 📅 2025-12-18 | 🏷️ `cs.RO, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17958v1)
+
+- **Adaptation of Agentic AI**
+  - 📅 2025-12-18 | 🏷️ `cs.AI, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.16301v2)
+
+- **In-Context Probing for Membership Inference in Fine-Tuned Language Models**
+  - 📅 2025-12-18 | 🏷️ `cs.CR, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.16292v2)
+
+- **Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting Scams**
+  - 📅 2025-12-18 | 🏷️ `cs.CR, cs.AI, cs.CY`
+  - [Read Paper](https://arxiv.org/abs/2512.16280v2)
+
+- **Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception**
+  - 📅 2025-12-18 | 🏷️ `cs.NI, cs.CV, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.16265v1)
+
+- **Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models**
+  - 📅 2025-12-18 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.16244v2)
+
+- **LoPA: Scaling dLLM Inference via Lookahead Parallel Decoding**
+  - 📅 2025-12-18 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.16229v2)
+
+- **PDE-Agent: A toolchain-augmented multi-agent framework for PDE solving**
+  - 📅 2025-12-18 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.16214v2)
+
+- **Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration**
+  - 📅 2025-12-18 | 🏷️ `cs.SE, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17956v1)
+
+- **A Modular Framework for Single-View 3D Reconstruction of Indoor Environments**
+  - 📅 2025-12-17 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17955v1)
+
+- **DSO: Direct Steering Optimization for Bias Mitigation**
+  - 📅 2025-12-17 | 🏷️ `cs.LG, cs.CL, cs.CY`
+  - [Read Paper](https://arxiv.org/abs/2512.15926v2)
+
+- **Prospects for quantum advantage in machine learning from the representability of functions**
+  - 📅 2025-12-17 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.15661v2)
+
+- **Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift**
+  - 📅 2025-12-17 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.15647v2)
+
+- **A Decision-Theoretic Approach for Managing Misalignment**
+  - 📅 2025-12-17 | 🏷️ `cs.AI, cs.GT`
+  - [Read Paper](https://arxiv.org/abs/2512.15584v2)
+
+- **SCS-SupCon: Sigmoid-based Common and Style Supervised Contrastive Learning with Adaptive Decision Boundaries**
+  - 📅 2025-12-17 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17954v1)
+
+- **Seeing Beyond the Scene: Analyzing and Mitigating Background Bias in Action Recognition**
+  - 📅 2025-12-17 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17953v1)
+
+- **Large Model Enabled Embodied Intelligence for 6G Integrated Perception, Communication, and Computation Network**
+  - 📅 2025-12-17 | 🏷️ `cs.AI, cs.IT`
+  - [Read Paper](https://arxiv.org/abs/2512.15109v2)
+
+- **Will AI Trade? A Computational Inversion of the No-Trade Theorem**
+  - 📅 2025-12-17 | 🏷️ `cs.GT, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17952v1)
+
+- **SuperFlow: Training Flow Matching Models with RL on the Fly**
+  - 📅 2025-12-17 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17951v1)
+
+- **Which Coauthor Should I Nominate in My 99 ICLR Submissions? A Mathematical Analysis of the ICLR 2026 Reciprocal Reviewer Nomination Policy**
+  - 📅 2025-12-17 | 🏷️ `cs.GT, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17950v1)
+
+- **Softly Constrained Denoisers for Diffusion Models**
+  - 📅 2025-12-17 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.14980v2)
+
+- **CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives**
+  - 📅 2025-12-16 | 🏷️ `cs.CV, cs.GR, cs.RO`
+  - [Read Paper](https://arxiv.org/abs/2512.14696v2)
+
+- **Let the Barbarians In: How AI Can Accelerate Systems Performance Research**
+  - 📅 2025-12-16 | 🏷️ `cs.SE, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.14806v4)
+
+- **TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**
+  - 📅 2025-12-16 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.14595v2)
+
+- **VLegal-Bench: Cognitively Grounded Benchmark for Vietnamese Legal Reasoning of Large Language Models**
+  - 📅 2025-12-16 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.14554v3)
+
+- **FocalComm: Hard Instance-Aware Multi-Agent Perception**
+  - 📅 2025-12-16 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.13982v2)
+
+- **Assessing High-Risk AI Systems under the EU AI Act: From Legal Requirements to Technical Verification**
+  - 📅 2025-12-15 | 🏷️ `cs.CY, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.13907v2)
+
+- **Universality of high-dimensional scaling limits of stochastic gradient descent**
+  - 📅 2025-12-15 | 🏷️ `stat.ML, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.13634v2)
+
+- **From Zipf's Law to Neural Scaling through Heaps' Law and Hilberg's Hypothesis**
+  - 📅 2025-12-15 | 🏷️ `cs.IT, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.13491v2)
+
+- **SSAS: Cross-subject EEG-based Emotion Recognition through Source Selection with Adversarial Strategy**
+  - 📅 2025-12-15 | 🏷️ `cs.LG, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.13458v2)
+
+- **Can AI Understand What We Cannot Say? Measuring Multilevel Alignment Through Abortion Stigma Across Cognitive, Interpersonal, and Structural Levels**
+  - 📅 2025-12-15 | 🏷️ `cs.AI, cs.HC`
+  - [Read Paper](https://arxiv.org/abs/2512.13142v3)
+
+- **Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences**
+  - 📅 2025-12-15 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.13123v3)
+
+- **Socratic Students: Teaching Language Models to Learn by Asking Questions**
+  - 📅 2025-12-15 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.13102v2)
+
+- **Let the Model Learn to Feel: Mode-Guided Tonality Injection for Symbolic Music Emotion Recognition**
+  - 📅 2025-12-15 | 🏷️ `cs.SD, cs.AI, cs.MM`
+  - [Read Paper](https://arxiv.org/abs/2512.17946v1)
+
+- **What's the Price of Monotonicity? A Multi-Dataset Benchmark of Monotone-Constrained Gradient Boosting for Credit PD**
+  - 📅 2025-12-14 | 🏷️ `cs.LG, q-fin.RM, q-fin.ST`
+  - [Read Paper](https://arxiv.org/abs/2512.17945v1)
+
+- **COBRA: Catastrophic Bit-flip Reliability Analysis of State-Space Models**
+  - 📅 2025-12-14 | 🏷️ `cs.CR, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.15778v2)
+
+- **Understanding Syllogistic Reasoning in LLMs from Formal and Natural Language Perspectives**
+  - 📅 2025-12-14 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.12620v2)
+
+- **Human-Inspired Learning for Large Language Models via Obvious Record and Maximum-Entropy Method Discovery**
+  - 📅 2025-12-14 | 🏷️ `cs.CL, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.12608v2)
+
+- **NystagmusNet: Explainable Deep Learning for Photosensitivity Risk Prediction**
+  - 📅 2025-12-13 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17943v1)
+
+- **Accelerated Digital Twin Learning for Edge AI: A Comparison of FPGA and Mobile GPU**
+  - 📅 2025-12-13 | 🏷️ `cs.DC, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.17941v1)
+
+- **Neural CDEs as Correctors for Learned Time Series Models**
+  - 📅 2025-12-13 | 🏷️ `cs.LG, stat.ML`
+  - [Read Paper](https://arxiv.org/abs/2512.12116v2)
+
+- **A 96pJ/Frame/Pixel and 61pJ/Event Anti-UAV System with Hybrid Object Tracking Modes**
+  - 📅 2025-12-12 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17939v1)
+
+- **Three methods, one problem: Classical and AI approaches to no-three-in-line**
+  - 📅 2025-12-12 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.11469v2)
+
+- **A probabilistic foundation model for crystal structure denoising, phase classification, and order parameters**
+  - 📅 2025-12-11 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.11077v2)
+
+- **Iterative Compositional Data Generation for Robot Control**
+  - 📅 2025-12-11 | 🏷️ `cs.RO, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.10891v3)
+
+- **PACIFIC: a framework for generating benchmarks to check Precise Automatically Checked Instruction Following In Code**
+  - 📅 2025-12-11 | 🏷️ `cs.SE, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.10713v2)
+
+- **Renormalizable Spectral-Shell Dynamics as the Origin of Neural Scaling Laws**
+  - 📅 2025-12-11 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.10427v3)
+
+- **Confucius Code Agent: Scalable Agent Scaffolding for Real-World Codebases**
+  - 📅 2025-12-11 | 🏷️ `cs.CL, cs.AI, cs.LG, cs.SE`
+  - [Read Paper](https://arxiv.org/abs/2512.10398v5)
+
+- **Risk-Aware Financial Forecasting Enhanced by Machine Learning and Intuitionistic Fuzzy Multi-Criteria Decision-Making**
+  - 📅 2025-12-11 | 🏷️ `q-fin.ST, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17936v1)
+
+- **chatter: a Python library for applying information theory and AI/ML models to animal communication**
+  - 📅 2025-12-11 | 🏷️ `cs.SD, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17935v1)
+
+- **Comparative Evaluation of Explainable Machine Learning Versus Linear Regression for Predicting County-Level Lung Cancer Mortality Rate in the United States**
+  - 📅 2025-12-10 | 🏷️ `cs.LG, cs.AI, stat.AP`
+  - [Read Paper](https://arxiv.org/abs/2512.17934v1)
+
+- **Independent Density Estimation**
+  - 📅 2025-12-10 | 🏷️ `cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.10067v2)
+
+- **CytoDINO: Risk-Aware and Biologically-Informed Adaptation of DINOv3 for Bone Marrow Cytomorphology**
+  - 📅 2025-12-09 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.17930v1)
+
+- **Reinforcement Learning for Monetary Policy Under Macroeconomic Uncertainty: Analyzing Tabular and Function Approximation Methods**
+  - 📅 2025-12-09 | 🏷️ `q-fin.ST, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17929v1)
+
+- **ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors**
+  - 📅 2025-12-09 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.09056v2)
+
+- **Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**
+  - 📅 2025-12-09 | 🏷️ `cs.CV, cs.GR`
+  - [Read Paper](https://arxiv.org/abs/2512.08930v2)
+
+- **Efficient Beamforming Optimization for STAR-RIS-Assisted Communications: A Gradient-Based Meta Learning Approach**
+  - 📅 2025-12-09 | 🏷️ `cs.AI, cs.IT, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17928v1)
+
+- **Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**
+  - 📅 2025-12-09 | 🏷️ `cs.IR, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.08398v2)
+
+- **Restrictive Hierarchical Semantic Segmentation for Stratified Tooth Layer Detection**
+  - 📅 2025-12-08 | 🏷️ `cs.CV, cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.07984v3)
+
+- **A curated UK rain radar data set for training and benchmarking nowcasting models**
+  - 📅 2025-12-08 | 🏷️ `cs.CV, cs.LG, stat.AP`
+  - [Read Paper](https://arxiv.org/abs/2512.17924v1)
+
+- **Inferring Latent Market Forces: Evaluating LLM Detection of Gamma Exposure Patterns via Obfuscation Testing**
+  - 📅 2025-12-08 | 🏷️ `q-fin.ST, cs.AI, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.17923v1)
+
+- **Liver Fibrosis Quantification and Analysis: The LiQA Dataset and Baseline Method**
+  - 📅 2025-12-08 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.07651v2)
+
+- **Over-representation of phonological features in basic vocabulary doesn't replicate when controlling for spatial and phylogenetic effects**
+  - 📅 2025-12-08 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.07543v2)
+
+- **Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery**
+  - 📅 2025-12-08 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.07276v2)
+
+- **Always Keep Your Promises: DynamicLRP, A Model-Agnostic Solution To Layer-Wise Relevance Propagation**
+  - 📅 2025-12-07 | 🏷️ `cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.07010v2)
+
+- **Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge**
+  - 📅 2025-12-07 | 🏷️ `cs.RO, cs.AI, cs.CV, cs.LG`
+  - [Read Paper](https://arxiv.org/abs/2512.06951v2)
+
+- **VDOT: Efficient Unified Video Creation via Optimal Transport Distillation**
+  - 📅 2025-12-07 | 🏷️ `cs.CV`
+  - [Read Paper](https://arxiv.org/abs/2512.06802v3)
+
+- **Arc Gradient Descent: A Mathematically Derived Reformulation of Gradient Descent with Phase-Aware, User-Controlled Step Dynamics**
+  - 📅 2025-12-07 | 🏷️ `cs.LG, cs.AI, cs.CL, cs.CV, cs.NE`
+  - [Read Paper](https://arxiv.org/abs/2512.06737v2)
+
+- **Look Twice before You Leap: A Rational Agent Framework for Localized Adversarial Anonymization**
+  - 📅 2025-12-07 | 🏷️ `cs.CR, cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.06713v2)
+
+- **Deep Reinforcement Learning Optimization for Uncertain Nonlinear Systems via Event-Triggered Robust Adaptive Dynamic Programming**
+  - 📅 2025-12-05 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.15735v2)
+
+- **Learning from Self Critique and Refinement for Faithful LLM Summarization**
+  - 📅 2025-12-05 | 🏷️ `cs.CL`
+  - [Read Paper](https://arxiv.org/abs/2512.05387v2)
+
+- **Continuous-time reinforcement learning for optimal switching over multiple regimes**
+  - 📅 2025-12-04 | 🏷️ `cs.LG, q-fin.CP`
+  - [Read Paper](https://arxiv.org/abs/2512.04697v2)
+
+- **Neural Decoding of Overt Speech from ECoG Using Vision Transformers and Contrastive Representation Learning**
+  - 📅 2025-12-04 | 🏷️ `cs.AI`
+  - [Read Paper](https://arxiv.org/abs/2512.04618v2)
+
+
+
 - **Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing**
   - 📅 2025-12-19 | 🏷️ `cs.CV`
   - [Read Paper](https://arxiv.org/abs/2512.17909v1)
